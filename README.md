@@ -1,6 +1,5 @@
 				AirBnB clone - The console
-![AirBnB Clone](https://github.com/Edimatic/AirBnB_clone/blob/master/web_static/images/airbnb.png)
-
+![AirBnB Clone](https://github.com/Edimatic/AirBnB_clone/blob/master/airbnb.png)
 			Welcome to the AirBnB clone project!
 
 Before starting, please read the AirBnB concept page.
@@ -26,3 +25,4 @@ Do you remember the Shell? It’s exactly the same but limited to a specific use
     Update attributes of an object
     Destroy an object
 
+![Console](https://github.com/Edimatic/AirBnB_clone/blob/master/console.png)
