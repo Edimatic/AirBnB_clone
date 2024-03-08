@@ -1,4 +1,4 @@
-				# AirBnB clone - The console
+# H1				 AirBnB clone - The console
 ![AirBnB Clone](https://github.com/Edimatic/AirBnB_clone/blob/master/airbnb.png)
 			## Welcome to the AirBnB clone project!
 
