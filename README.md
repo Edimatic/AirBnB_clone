@@ -1,6 +1,6 @@
-				AirBnB clone - The console
+				# AirBnB clone - The console
 ![AirBnB Clone](https://github.com/Edimatic/AirBnB_clone/blob/master/airbnb.png)
-			Welcome to the AirBnB clone project!
+			## Welcome to the AirBnB clone project!
 
 Before starting, please read the AirBnB concept page.
 First step: Write a command interpreter to manage your AirBnB objects.
@@ -15,7 +15,7 @@ Each task is linked and will help you to:
     create the first abstracted storage engine of the project: File storage.
     create all unittests to validate all our classes and storage engine
 
-			What’s a command interpreter?
+			##What’s a command interpreter?
 
 Do you remember the Shell? It’s exactly the same but limited to a specific use-case. In our case, we want to be able to manage the objects of our project:
 
