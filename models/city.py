@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-"""Showing the class of the City."""
 from models.base_model import BaseModel
 
 
