@@ -189,7 +189,7 @@ class HBNBCommand(cmd.Cmd):
                         pass  # fine, stay a string then
                 setattr(storage.all()[key], attribute, value)
                 storage.all()[key].save()
-"""
+
 
 if __name__ == '__main__':
     HBNBCommand().cmdloop()
