@@ -1,5 +1,3 @@
-#!/usr/bin/python3
-"""Unittest module for the State Class."""
 
 import unittest
 from datetime import datetime
@@ -49,5 +47,6 @@ class TestState(unittest.TestCase):
             self.assertEqual(type(getattr(o, k, None)), v)
 
 
-if __name__ == "__main__":
+"""if __name__ == "__main__":
     unittest.main()
+"""    
