@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+"""Unittest module for the Amenity Class."""
 
 import unittest
 from datetime import datetime
@@ -40,12 +42,12 @@ class TestAmenity(unittest.TestCase):
 
     def test_8_attributes(self):
         """Tests the attributes of Amenity class."""
-        """attributes = storage.attributes()["Amenity"]
+        attributes = storage.attributes()["Amenity"]
         o = Amenity()
         for k, v in attributes.items():
             self.assertTrue(hasattr(o, k))
             self.assertEqual(type(getattr(o, k, None)), v)
-"""
+
 
 if __name__ == "__main__":
     unittest.main()

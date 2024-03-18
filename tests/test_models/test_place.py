@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+"""Unittest module for the Place Class."""
 
 import unittest
 from datetime import datetime
@@ -26,10 +28,10 @@ class TestPlace(unittest.TestCase):
 
     def resetStorage(self):
         """Resets FileStorage data."""
-"""        FileStorage._FileStorage__objects = {}
+        FileStorage._FileStorage__objects = {}
         if os.path.isfile(FileStorage._FileStorage__file_path):
             os.remove(FileStorage._FileStorage__file_path)
-"""
+
     def test_8_instantiation(self):
         """Tests instantiation of Place class."""
 
